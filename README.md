@@ -12,9 +12,9 @@
 3. SciPy
 4. TensorFLow
 
-### |Data Science Tools|
-##  |------------------|
-##  |IDE|
-##  |Anaconda|
-##  |Jupyter|
+|Data Science Tools|
+|------------------|
+|IDE|
+|Anaconda|
+|Jupyter|
     
