@@ -20,4 +20,6 @@
 
 ### Below are a few examples of evaluating arithmetic expressions in Python:
 
-
+answer = (3*4)+5
+***This a simple arithmetic expression to mutiply then add integers
+print(answer)
